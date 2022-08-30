@@ -1,0 +1,367 @@
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=0%, condition=MINT, resale value=89.60, color=Red, wheels=2, odometer=0] is added to the stock.
+Shockwave [product code=7000000, MSRP=678.25, degradation level=0%, condition=MINT, resale value=678.25, battery type=AAA, number of batteries=2, battery level=100%, sound=I...am...Suuuuperman.] is added to the stock.
+SPESXFUN [product code=6000000, MSRP=97.56, degradation level=0%, condition=MINT, resale value=97.56, battery type=AA, number of batteries=1, battery level=100%, speed=249] is added to the stock.
+Susan [product code=3000000, MSRP=29.32, degradation level=0%, condition=MINT, resale value=29.32, hair color=Pink, eye color=Hazel] is added to the stock.
+Hapinic RC [product code=6000001, MSRP=36.22, degradation level=0%, condition=MINT, resale value=36.22, battery type=AAA, number of batteries=5, battery level=100%, speed=208] is added to the stock.
+Babs [product code=3000001, MSRP=48.79, degradation level=0%, condition=MINT, resale value=48.79, hair color=Blond, eye color=Brown] is added to the stock.
+Soundwave [product code=7000001, MSRP=329.43, degradation level=0%, condition=MINT, resale value=329.43, battery type=C, number of batteries=4, battery level=100%, sound=Bleep Blorp] is added to the stock.
+Razor A [product code=9000001, MSRP=130.01, degradation level=0%, condition=MINT, resale value=130.01, color=Pink, wheels=2, odometer=0] is added to the stock.
+Ken [product code=3000002, MSRP=38.58, degradation level=0%, condition=MINT, resale value=38.58, hair color=Green, eye color=Green] is added to the stock.
+Vector [product code=7000002, MSRP=446.13, degradation level=0%, condition=MINT, resale value=446.13, battery type=D, number of batteries=4, battery level=100%, sound=Eject!] is added to the stock.
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=0%, condition=MINT, resale value=89.60, color=Red, wheels=2, odometer=0] and begins to play with it...
+After play, Fuzion X-3's condition is MINT
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=5%, condition=MINT, resale value=89.60, color=Red, wheels=2, odometer=2] is added to the stock.
+The customer grows bored with the toy and trades it in for $89.60
+The next customer purchases Shockwave [product code=7000000, MSRP=678.25, degradation level=0%, condition=MINT, resale value=678.25, battery type=AAA, number of batteries=2, battery level=100%, sound=I...am...Suuuuperman.] and begins to play with it...
+Shockwave goes 'I...am...Suuuuperman.'
+After play, Shockwave's condition is VERY_GOOD
+Shockwave [product code=7000000, MSRP=678.25, degradation level=20%, condition=VERY_GOOD, resale value=508.69, battery type=AAA, number of batteries=2, battery level=75%, sound=I...am...Suuuuperman.] is added to the stock.
+The customer grows bored with the toy and trades it in for $508.69
+The next customer purchases SPESXFUN [product code=6000000, MSRP=97.56, degradation level=0%, condition=MINT, resale value=97.56, battery type=AA, number of batteries=1, battery level=100%, speed=249] and begins to play with it...
+SPESXFUN races in circles at 249 mph!
+After play, SPESXFUN's condition is NEAR_MINT
+SPESXFUN [product code=6000000, MSRP=97.56, degradation level=15%, condition=NEAR_MINT, resale value=87.80, battery type=AA, number of batteries=1, battery level=70%, speed=249] is added to the stock.
+The customer grows bored with the toy and trades it in for $87.80
+The next customer purchases Susan [product code=3000000, MSRP=29.32, degradation level=0%, condition=MINT, resale value=29.32, hair color=Pink, eye color=Hazel] and begins to play with it...
+After play, Susan's condition is NEAR_MINT
+Susan [product code=3000000, MSRP=29.32, degradation level=17%, condition=NEAR_MINT, resale value=26.39, hair color=Pink, eye color=Hazel] is added to the stock.
+The customer grows bored with the toy and trades it in for $26.39
+The next customer purchases Hapinic RC [product code=6000001, MSRP=36.22, degradation level=0%, condition=MINT, resale value=36.22, battery type=AAA, number of batteries=5, battery level=100%, speed=208] and begins to play with it...
+Hapinic RC races in circles at 208 mph!
+After play, Hapinic RC's condition is NEAR_MINT
+Hapinic RC [product code=6000001, MSRP=36.22, degradation level=15%, condition=NEAR_MINT, resale value=32.60, battery type=AAA, number of batteries=5, battery level=70%, speed=208] is added to the stock.
+The customer grows bored with the toy and trades it in for $32.60
+The next customer purchases Babs [product code=3000001, MSRP=48.79, degradation level=0%, condition=MINT, resale value=48.79, hair color=Blond, eye color=Brown] and begins to play with it...
+After play, Babs's condition is NEAR_MINT
+Babs [product code=3000001, MSRP=48.79, degradation level=17%, condition=NEAR_MINT, resale value=43.91, hair color=Blond, eye color=Brown] is added to the stock.
+The customer grows bored with the toy and trades it in for $43.91
+The next customer purchases Soundwave [product code=7000001, MSRP=329.43, degradation level=0%, condition=MINT, resale value=329.43, battery type=C, number of batteries=4, battery level=100%, sound=Bleep Blorp] and begins to play with it...
+Soundwave goes 'Bleep Blorp'
+After play, Soundwave's condition is VERY_GOOD
+Soundwave [product code=7000001, MSRP=329.43, degradation level=20%, condition=VERY_GOOD, resale value=247.07, battery type=C, number of batteries=4, battery level=75%, sound=Bleep Blorp] is added to the stock.
+The customer grows bored with the toy and trades it in for $247.07
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=0%, condition=MINT, resale value=130.01, color=Pink, wheels=2, odometer=0] and begins to play with it...
+After play, Razor A's condition is MINT
+Razor A [product code=9000001, MSRP=130.01, degradation level=5%, condition=MINT, resale value=130.01, color=Pink, wheels=2, odometer=2] is added to the stock.
+The customer grows bored with the toy and trades it in for $130.01
+The next customer purchases Ken [product code=3000002, MSRP=38.58, degradation level=0%, condition=MINT, resale value=38.58, hair color=Green, eye color=Green] and begins to play with it...
+After play, Ken's condition is NEAR_MINT
+Ken [product code=3000002, MSRP=38.58, degradation level=17%, condition=NEAR_MINT, resale value=34.72, hair color=Green, eye color=Green] is added to the stock.
+The customer grows bored with the toy and trades it in for $34.72
+The next customer purchases Vector [product code=7000002, MSRP=446.13, degradation level=0%, condition=MINT, resale value=446.13, battery type=D, number of batteries=4, battery level=100%, sound=Eject!] and begins to play with it...
+Vector goes 'Eject!'
+After play, Vector's condition is VERY_GOOD
+Vector [product code=7000002, MSRP=446.13, degradation level=20%, condition=VERY_GOOD, resale value=334.60, battery type=D, number of batteries=4, battery level=75%, sound=Eject!] is added to the stock.
+The customer grows bored with the toy and trades it in for $334.60
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=5%, condition=MINT, resale value=89.60, color=Red, wheels=2, odometer=2] and begins to play with it...
+After play, Fuzion X-3's condition is NEAR_MINT
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=10%, condition=NEAR_MINT, resale value=80.64, color=Red, wheels=2, odometer=4] is added to the stock.
+The customer grows bored with the toy and trades it in for $80.64
+The next customer purchases Shockwave [product code=7000000, MSRP=678.25, degradation level=20%, condition=VERY_GOOD, resale value=508.69, battery type=AAA, number of batteries=2, battery level=75%, sound=I...am...Suuuuperman.] and begins to play with it...
+Shockwave goes 'I...am...Suuuuperman.'
+After play, Shockwave's condition is GOOD
+Shockwave [product code=7000000, MSRP=678.25, degradation level=40%, condition=GOOD, resale value=474.78, battery type=AAA, number of batteries=2, battery level=50%, sound=I...am...Suuuuperman.] is added to the stock.
+The customer grows bored with the toy and trades it in for $474.78
+The next customer purchases SPESXFUN [product code=6000000, MSRP=97.56, degradation level=15%, condition=NEAR_MINT, resale value=87.80, battery type=AA, number of batteries=1, battery level=70%, speed=249] and begins to play with it...
+SPESXFUN races in circles at 249 mph!
+After play, SPESXFUN's condition is GOOD
+SPESXFUN [product code=6000000, MSRP=97.56, degradation level=30%, condition=GOOD, resale value=68.29, battery type=AA, number of batteries=1, battery level=40%, speed=249] is added to the stock.
+The customer grows bored with the toy and trades it in for $68.29
+The next customer purchases Susan [product code=3000000, MSRP=29.32, degradation level=17%, condition=NEAR_MINT, resale value=26.39, hair color=Pink, eye color=Hazel] and begins to play with it...
+After play, Susan's condition is GOOD
+Susan [product code=3000000, MSRP=29.32, degradation level=34%, condition=GOOD, resale value=20.52, hair color=Pink, eye color=Hazel] is added to the stock.
+The customer grows bored with the toy and trades it in for $20.52
+The next customer purchases Hapinic RC [product code=6000001, MSRP=36.22, degradation level=15%, condition=NEAR_MINT, resale value=32.60, battery type=AAA, number of batteries=5, battery level=70%, speed=208] and begins to play with it...
+Hapinic RC races in circles at 208 mph!
+After play, Hapinic RC's condition is GOOD
+Hapinic RC [product code=6000001, MSRP=36.22, degradation level=30%, condition=GOOD, resale value=25.35, battery type=AAA, number of batteries=5, battery level=40%, speed=208] is added to the stock.
+The customer grows bored with the toy and trades it in for $25.35
+The next customer purchases Babs [product code=3000001, MSRP=48.79, degradation level=17%, condition=NEAR_MINT, resale value=43.91, hair color=Blond, eye color=Brown] and begins to play with it...
+After play, Babs's condition is GOOD
+Babs [product code=3000001, MSRP=48.79, degradation level=34%, condition=GOOD, resale value=34.15, hair color=Blond, eye color=Brown] is added to the stock.
+The customer grows bored with the toy and trades it in for $34.15
+The next customer purchases Soundwave [product code=7000001, MSRP=329.43, degradation level=20%, condition=VERY_GOOD, resale value=247.07, battery type=C, number of batteries=4, battery level=75%, sound=Bleep Blorp] and begins to play with it...
+Soundwave goes 'Bleep Blorp'
+After play, Soundwave's condition is GOOD
+Soundwave [product code=7000001, MSRP=329.43, degradation level=40%, condition=GOOD, resale value=230.60, battery type=C, number of batteries=4, battery level=50%, sound=Bleep Blorp] is added to the stock.
+The customer grows bored with the toy and trades it in for $230.60
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=5%, condition=MINT, resale value=130.01, color=Pink, wheels=2, odometer=2] and begins to play with it...
+After play, Razor A's condition is NEAR_MINT
+Razor A [product code=9000001, MSRP=130.01, degradation level=10%, condition=NEAR_MINT, resale value=117.01, color=Pink, wheels=2, odometer=4] is added to the stock.
+The customer grows bored with the toy and trades it in for $117.01
+The next customer purchases Ken [product code=3000002, MSRP=38.58, degradation level=17%, condition=NEAR_MINT, resale value=34.72, hair color=Green, eye color=Green] and begins to play with it...
+After play, Ken's condition is GOOD
+Ken [product code=3000002, MSRP=38.58, degradation level=34%, condition=GOOD, resale value=27.01, hair color=Green, eye color=Green] is added to the stock.
+The customer grows bored with the toy and trades it in for $27.01
+The next customer purchases Vector [product code=7000002, MSRP=446.13, degradation level=20%, condition=VERY_GOOD, resale value=334.60, battery type=D, number of batteries=4, battery level=75%, sound=Eject!] and begins to play with it...
+Vector goes 'Eject!'
+After play, Vector's condition is GOOD
+Vector [product code=7000002, MSRP=446.13, degradation level=40%, condition=GOOD, resale value=312.29, battery type=D, number of batteries=4, battery level=50%, sound=Eject!] is added to the stock.
+The customer grows bored with the toy and trades it in for $312.29
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=10%, condition=NEAR_MINT, resale value=80.64, color=Red, wheels=2, odometer=4] and begins to play with it...
+After play, Fuzion X-3's condition is NEAR_MINT
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=15%, condition=NEAR_MINT, resale value=80.64, color=Red, wheels=2, odometer=6] is added to the stock.
+The customer grows bored with the toy and trades it in for $80.64
+The next customer purchases Shockwave [product code=7000000, MSRP=678.25, degradation level=40%, condition=GOOD, resale value=474.78, battery type=AAA, number of batteries=2, battery level=50%, sound=I...am...Suuuuperman.] and begins to play with it...
+Shockwave goes 'I...am...Suuuuperman.'
+After play, Shockwave's condition is FAIR
+Shockwave [product code=7000000, MSRP=678.25, degradation level=60%, condition=FAIR, resale value=169.56, battery type=AAA, number of batteries=2, battery level=25%, sound=I...am...Suuuuperman.] is added to the stock.
+The customer grows bored with the toy and trades it in for $169.56
+The next customer purchases SPESXFUN [product code=6000000, MSRP=97.56, degradation level=30%, condition=GOOD, resale value=68.29, battery type=AA, number of batteries=1, battery level=40%, speed=249] and begins to play with it...
+SPESXFUN races in circles at 249 mph!
+After play, SPESXFUN's condition is GOOD
+SPESXFUN [product code=6000000, MSRP=97.56, degradation level=45%, condition=GOOD, resale value=68.29, battery type=AA, number of batteries=1, battery level=10%, speed=249] is added to the stock.
+The customer grows bored with the toy and trades it in for $68.29
+The next customer purchases Susan [product code=3000000, MSRP=29.32, degradation level=34%, condition=GOOD, resale value=20.52, hair color=Pink, eye color=Hazel] and begins to play with it...
+After play, Susan's condition is FAIR
+Susan [product code=3000000, MSRP=29.32, degradation level=51%, condition=FAIR, resale value=7.33, hair color=Pink, eye color=Hazel] is added to the stock.
+The customer grows bored with the toy and trades it in for $7.33
+The next customer purchases Hapinic RC [product code=6000001, MSRP=36.22, degradation level=30%, condition=GOOD, resale value=25.35, battery type=AAA, number of batteries=5, battery level=40%, speed=208] and begins to play with it...
+Hapinic RC races in circles at 208 mph!
+After play, Hapinic RC's condition is GOOD
+Hapinic RC [product code=6000001, MSRP=36.22, degradation level=45%, condition=GOOD, resale value=25.35, battery type=AAA, number of batteries=5, battery level=10%, speed=208] is added to the stock.
+The customer grows bored with the toy and trades it in for $25.35
+The next customer purchases Babs [product code=3000001, MSRP=48.79, degradation level=34%, condition=GOOD, resale value=34.15, hair color=Blond, eye color=Brown] and begins to play with it...
+After play, Babs's condition is FAIR
+Babs [product code=3000001, MSRP=48.79, degradation level=51%, condition=FAIR, resale value=12.20, hair color=Blond, eye color=Brown] is added to the stock.
+The customer grows bored with the toy and trades it in for $12.20
+The next customer purchases Soundwave [product code=7000001, MSRP=329.43, degradation level=40%, condition=GOOD, resale value=230.60, battery type=C, number of batteries=4, battery level=50%, sound=Bleep Blorp] and begins to play with it...
+Soundwave goes 'Bleep Blorp'
+After play, Soundwave's condition is FAIR
+Soundwave [product code=7000001, MSRP=329.43, degradation level=60%, condition=FAIR, resale value=82.36, battery type=C, number of batteries=4, battery level=25%, sound=Bleep Blorp] is added to the stock.
+The customer grows bored with the toy and trades it in for $82.36
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=10%, condition=NEAR_MINT, resale value=117.01, color=Pink, wheels=2, odometer=4] and begins to play with it...
+After play, Razor A's condition is NEAR_MINT
+Razor A [product code=9000001, MSRP=130.01, degradation level=15%, condition=NEAR_MINT, resale value=117.01, color=Pink, wheels=2, odometer=6] is added to the stock.
+The customer grows bored with the toy and trades it in for $117.01
+The next customer purchases Ken [product code=3000002, MSRP=38.58, degradation level=34%, condition=GOOD, resale value=27.01, hair color=Green, eye color=Green] and begins to play with it...
+After play, Ken's condition is FAIR
+Ken [product code=3000002, MSRP=38.58, degradation level=51%, condition=FAIR, resale value=9.65, hair color=Green, eye color=Green] is added to the stock.
+The customer grows bored with the toy and trades it in for $9.65
+The next customer purchases Vector [product code=7000002, MSRP=446.13, degradation level=40%, condition=GOOD, resale value=312.29, battery type=D, number of batteries=4, battery level=50%, sound=Eject!] and begins to play with it...
+Vector goes 'Eject!'
+After play, Vector's condition is FAIR
+Vector [product code=7000002, MSRP=446.13, degradation level=60%, condition=FAIR, resale value=111.53, battery type=D, number of batteries=4, battery level=25%, sound=Eject!] is added to the stock.
+The customer grows bored with the toy and trades it in for $111.53
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=15%, condition=NEAR_MINT, resale value=80.64, color=Red, wheels=2, odometer=6] and begins to play with it...
+After play, Fuzion X-3's condition is VERY_GOOD
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=20%, condition=VERY_GOOD, resale value=67.20, color=Red, wheels=2, odometer=8] is added to the stock.
+The customer grows bored with the toy and trades it in for $67.20
+The next customer purchases Shockwave [product code=7000000, MSRP=678.25, degradation level=60%, condition=FAIR, resale value=169.56, battery type=AAA, number of batteries=2, battery level=25%, sound=I...am...Suuuuperman.] and begins to play with it...
+Shockwave goes 'I...am...Suuuuperman.'
+After play, Shockwave's condition is POOR
+Shockwave [product code=7000000, MSRP=678.25, degradation level=80%, condition=POOR, resale value=67.83, battery type=AAA, number of batteries=2, battery level=0%, sound=I...am...Suuuuperman.] is added to the stock.
+The customer grows bored with the toy and trades it in for $67.83
+The next customer purchases SPESXFUN [product code=6000000, MSRP=97.56, degradation level=45%, condition=GOOD, resale value=68.29, battery type=AA, number of batteries=1, battery level=10%, speed=249] and begins to play with it...
+SPESXFUN races in circles at 249 mph!
+After play, SPESXFUN's condition is FAIR
+SPESXFUN [product code=6000000, MSRP=97.56, degradation level=60%, condition=FAIR, resale value=24.39, battery type=AA, number of batteries=1, battery level=0%, speed=249] is added to the stock.
+The customer grows bored with the toy and trades it in for $24.39
+The next customer purchases Susan [product code=3000000, MSRP=29.32, degradation level=51%, condition=FAIR, resale value=7.33, hair color=Pink, eye color=Hazel] and begins to play with it...
+After play, Susan's condition is FAIR
+Susan [product code=3000000, MSRP=29.32, degradation level=68%, condition=FAIR, resale value=7.33, hair color=Pink, eye color=Hazel] is added to the stock.
+The customer grows bored with the toy and trades it in for $7.33
+The next customer purchases Hapinic RC [product code=6000001, MSRP=36.22, degradation level=45%, condition=GOOD, resale value=25.35, battery type=AAA, number of batteries=5, battery level=10%, speed=208] and begins to play with it...
+Hapinic RC races in circles at 208 mph!
+After play, Hapinic RC's condition is FAIR
+Hapinic RC [product code=6000001, MSRP=36.22, degradation level=60%, condition=FAIR, resale value=9.06, battery type=AAA, number of batteries=5, battery level=0%, speed=208] is added to the stock.
+The customer grows bored with the toy and trades it in for $9.06
+The next customer purchases Babs [product code=3000001, MSRP=48.79, degradation level=51%, condition=FAIR, resale value=12.20, hair color=Blond, eye color=Brown] and begins to play with it...
+After play, Babs's condition is FAIR
+Babs [product code=3000001, MSRP=48.79, degradation level=68%, condition=FAIR, resale value=12.20, hair color=Blond, eye color=Brown] is added to the stock.
+The customer grows bored with the toy and trades it in for $12.20
+The next customer purchases Soundwave [product code=7000001, MSRP=329.43, degradation level=60%, condition=FAIR, resale value=82.36, battery type=C, number of batteries=4, battery level=25%, sound=Bleep Blorp] and begins to play with it...
+Soundwave goes 'Bleep Blorp'
+After play, Soundwave's condition is POOR
+Soundwave [product code=7000001, MSRP=329.43, degradation level=80%, condition=POOR, resale value=32.94, battery type=C, number of batteries=4, battery level=0%, sound=Bleep Blorp] is added to the stock.
+The customer grows bored with the toy and trades it in for $32.94
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=15%, condition=NEAR_MINT, resale value=117.01, color=Pink, wheels=2, odometer=6] and begins to play with it...
+After play, Razor A's condition is VERY_GOOD
+Razor A [product code=9000001, MSRP=130.01, degradation level=20%, condition=VERY_GOOD, resale value=97.51, color=Pink, wheels=2, odometer=8] is added to the stock.
+The customer grows bored with the toy and trades it in for $97.51
+The next customer purchases Ken [product code=3000002, MSRP=38.58, degradation level=51%, condition=FAIR, resale value=9.65, hair color=Green, eye color=Green] and begins to play with it...
+After play, Ken's condition is FAIR
+Ken [product code=3000002, MSRP=38.58, degradation level=68%, condition=FAIR, resale value=9.65, hair color=Green, eye color=Green] is added to the stock.
+The customer grows bored with the toy and trades it in for $9.65
+The next customer purchases Vector [product code=7000002, MSRP=446.13, degradation level=60%, condition=FAIR, resale value=111.53, battery type=D, number of batteries=4, battery level=25%, sound=Eject!] and begins to play with it...
+Vector goes 'Eject!'
+After play, Vector's condition is POOR
+Vector [product code=7000002, MSRP=446.13, degradation level=80%, condition=POOR, resale value=44.61, battery type=D, number of batteries=4, battery level=0%, sound=Eject!] is added to the stock.
+The customer grows bored with the toy and trades it in for $44.61
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=20%, condition=VERY_GOOD, resale value=67.20, color=Red, wheels=2, odometer=8] and begins to play with it...
+After play, Fuzion X-3's condition is VERY_GOOD
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=25%, condition=VERY_GOOD, resale value=67.20, color=Red, wheels=2, odometer=10] is added to the stock.
+The customer grows bored with the toy and trades it in for $67.20
+The next customer purchases Shockwave [product code=7000000, MSRP=678.25, degradation level=80%, condition=POOR, resale value=67.83, battery type=AAA, number of batteries=2, battery level=0%, sound=I...am...Suuuuperman.] and begins to play with it...
+The batteries are dead! Let's replace them...
+Shockwave goes 'I...am...Suuuuperman.'
+After play, Shockwave's condition is BROKEN
+Shockwave [product code=7000000, MSRP=678.25, degradation level=100%, condition=BROKEN, resale value=0.00, battery type=AAA, number of batteries=2, battery level=75%, sound=I...am...Suuuuperman.] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases SPESXFUN [product code=6000000, MSRP=97.56, degradation level=60%, condition=FAIR, resale value=24.39, battery type=AA, number of batteries=1, battery level=0%, speed=249] and begins to play with it...
+The batteries are dead! Let's replace them...
+SPESXFUN races in circles at 249 mph!
+After play, SPESXFUN's condition is POOR
+SPESXFUN [product code=6000000, MSRP=97.56, degradation level=75%, condition=POOR, resale value=9.76, battery type=AA, number of batteries=1, battery level=70%, speed=249] is added to the stock.
+The customer grows bored with the toy and trades it in for $9.76
+The next customer purchases Susan [product code=3000000, MSRP=29.32, degradation level=68%, condition=FAIR, resale value=7.33, hair color=Pink, eye color=Hazel] and begins to play with it...
+After play, Susan's condition is POOR
+Susan [product code=3000000, MSRP=29.32, degradation level=85%, condition=POOR, resale value=2.93, hair color=Pink, eye color=Hazel] is added to the stock.
+The customer grows bored with the toy and trades it in for $2.93
+The next customer purchases Hapinic RC [product code=6000001, MSRP=36.22, degradation level=60%, condition=FAIR, resale value=9.06, battery type=AAA, number of batteries=5, battery level=0%, speed=208] and begins to play with it...
+The batteries are dead! Let's replace them...
+Hapinic RC races in circles at 208 mph!
+After play, Hapinic RC's condition is POOR
+Hapinic RC [product code=6000001, MSRP=36.22, degradation level=75%, condition=POOR, resale value=3.62, battery type=AAA, number of batteries=5, battery level=70%, speed=208] is added to the stock.
+The customer grows bored with the toy and trades it in for $3.62
+The next customer purchases Babs [product code=3000001, MSRP=48.79, degradation level=68%, condition=FAIR, resale value=12.20, hair color=Blond, eye color=Brown] and begins to play with it...
+After play, Babs's condition is POOR
+Babs [product code=3000001, MSRP=48.79, degradation level=85%, condition=POOR, resale value=4.88, hair color=Blond, eye color=Brown] is added to the stock.
+The customer grows bored with the toy and trades it in for $4.88
+The next customer purchases Soundwave [product code=7000001, MSRP=329.43, degradation level=80%, condition=POOR, resale value=32.94, battery type=C, number of batteries=4, battery level=0%, sound=Bleep Blorp] and begins to play with it...
+The batteries are dead! Let's replace them...
+Soundwave goes 'Bleep Blorp'
+After play, Soundwave's condition is BROKEN
+Soundwave [product code=7000001, MSRP=329.43, degradation level=100%, condition=BROKEN, resale value=0.00, battery type=C, number of batteries=4, battery level=75%, sound=Bleep Blorp] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=20%, condition=VERY_GOOD, resale value=97.51, color=Pink, wheels=2, odometer=8] and begins to play with it...
+After play, Razor A's condition is VERY_GOOD
+Razor A [product code=9000001, MSRP=130.01, degradation level=25%, condition=VERY_GOOD, resale value=97.51, color=Pink, wheels=2, odometer=10] is added to the stock.
+The customer grows bored with the toy and trades it in for $97.51
+The next customer purchases Ken [product code=3000002, MSRP=38.58, degradation level=68%, condition=FAIR, resale value=9.65, hair color=Green, eye color=Green] and begins to play with it...
+After play, Ken's condition is POOR
+Ken [product code=3000002, MSRP=38.58, degradation level=85%, condition=POOR, resale value=3.86, hair color=Green, eye color=Green] is added to the stock.
+The customer grows bored with the toy and trades it in for $3.86
+The next customer purchases Vector [product code=7000002, MSRP=446.13, degradation level=80%, condition=POOR, resale value=44.61, battery type=D, number of batteries=4, battery level=0%, sound=Eject!] and begins to play with it...
+The batteries are dead! Let's replace them...
+Vector goes 'Eject!'
+After play, Vector's condition is BROKEN
+Vector [product code=7000002, MSRP=446.13, degradation level=100%, condition=BROKEN, resale value=0.00, battery type=D, number of batteries=4, battery level=75%, sound=Eject!] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=25%, condition=VERY_GOOD, resale value=67.20, color=Red, wheels=2, odometer=10] and begins to play with it...
+After play, Fuzion X-3's condition is GOOD
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=30%, condition=GOOD, resale value=62.72, color=Red, wheels=2, odometer=12] is added to the stock.
+The customer grows bored with the toy and trades it in for $62.72
+The next customer purchases SPESXFUN [product code=6000000, MSRP=97.56, degradation level=75%, condition=POOR, resale value=9.76, battery type=AA, number of batteries=1, battery level=70%, speed=249] and begins to play with it...
+SPESXFUN races in circles at 249 mph!
+After play, SPESXFUN's condition is BROKEN
+SPESXFUN [product code=6000000, MSRP=97.56, degradation level=90%, condition=BROKEN, resale value=0.00, battery type=AA, number of batteries=1, battery level=40%, speed=249] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Susan [product code=3000000, MSRP=29.32, degradation level=85%, condition=POOR, resale value=2.93, hair color=Pink, eye color=Hazel] and begins to play with it...
+After play, Susan's condition is BROKEN
+Susan [product code=3000000, MSRP=29.32, degradation level=100%, condition=BROKEN, resale value=0.00, hair color=Pink, eye color=Hazel] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Hapinic RC [product code=6000001, MSRP=36.22, degradation level=75%, condition=POOR, resale value=3.62, battery type=AAA, number of batteries=5, battery level=70%, speed=208] and begins to play with it...
+Hapinic RC races in circles at 208 mph!
+After play, Hapinic RC's condition is BROKEN
+Hapinic RC [product code=6000001, MSRP=36.22, degradation level=90%, condition=BROKEN, resale value=0.00, battery type=AAA, number of batteries=5, battery level=40%, speed=208] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Babs [product code=3000001, MSRP=48.79, degradation level=85%, condition=POOR, resale value=4.88, hair color=Blond, eye color=Brown] and begins to play with it...
+After play, Babs's condition is BROKEN
+Babs [product code=3000001, MSRP=48.79, degradation level=100%, condition=BROKEN, resale value=0.00, hair color=Blond, eye color=Brown] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=25%, condition=VERY_GOOD, resale value=97.51, color=Pink, wheels=2, odometer=10] and begins to play with it...
+After play, Razor A's condition is GOOD
+Razor A [product code=9000001, MSRP=130.01, degradation level=30%, condition=GOOD, resale value=91.01, color=Pink, wheels=2, odometer=12] is added to the stock.
+The customer grows bored with the toy and trades it in for $91.01
+The next customer purchases Ken [product code=3000002, MSRP=38.58, degradation level=85%, condition=POOR, resale value=3.86, hair color=Green, eye color=Green] and begins to play with it...
+After play, Ken's condition is BROKEN
+Ken [product code=3000002, MSRP=38.58, degradation level=100%, condition=BROKEN, resale value=0.00, hair color=Green, eye color=Green] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=30%, condition=GOOD, resale value=62.72, color=Red, wheels=2, odometer=12] and begins to play with it...
+After play, Fuzion X-3's condition is GOOD
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=35%, condition=GOOD, resale value=62.72, color=Red, wheels=2, odometer=14] is added to the stock.
+The customer grows bored with the toy and trades it in for $62.72
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=30%, condition=GOOD, resale value=91.01, color=Pink, wheels=2, odometer=12] and begins to play with it...
+After play, Razor A's condition is GOOD
+Razor A [product code=9000001, MSRP=130.01, degradation level=35%, condition=GOOD, resale value=91.01, color=Pink, wheels=2, odometer=14] is added to the stock.
+The customer grows bored with the toy and trades it in for $91.01
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=35%, condition=GOOD, resale value=62.72, color=Red, wheels=2, odometer=14] and begins to play with it...
+After play, Fuzion X-3's condition is GOOD
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=40%, condition=GOOD, resale value=62.72, color=Red, wheels=2, odometer=16] is added to the stock.
+The customer grows bored with the toy and trades it in for $62.72
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=35%, condition=GOOD, resale value=91.01, color=Pink, wheels=2, odometer=14] and begins to play with it...
+After play, Razor A's condition is GOOD
+Razor A [product code=9000001, MSRP=130.01, degradation level=40%, condition=GOOD, resale value=91.01, color=Pink, wheels=2, odometer=16] is added to the stock.
+The customer grows bored with the toy and trades it in for $91.01
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=40%, condition=GOOD, resale value=62.72, color=Red, wheels=2, odometer=16] and begins to play with it...
+After play, Fuzion X-3's condition is GOOD
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=45%, condition=GOOD, resale value=62.72, color=Red, wheels=2, odometer=18] is added to the stock.
+The customer grows bored with the toy and trades it in for $62.72
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=40%, condition=GOOD, resale value=91.01, color=Pink, wheels=2, odometer=16] and begins to play with it...
+After play, Razor A's condition is GOOD
+Razor A [product code=9000001, MSRP=130.01, degradation level=45%, condition=GOOD, resale value=91.01, color=Pink, wheels=2, odometer=18] is added to the stock.
+The customer grows bored with the toy and trades it in for $91.01
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=45%, condition=GOOD, resale value=62.72, color=Red, wheels=2, odometer=18] and begins to play with it...
+After play, Fuzion X-3's condition is FAIR
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=50%, condition=FAIR, resale value=22.40, color=Red, wheels=2, odometer=20] is added to the stock.
+The customer grows bored with the toy and trades it in for $22.40
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=45%, condition=GOOD, resale value=91.01, color=Pink, wheels=2, odometer=18] and begins to play with it...
+After play, Razor A's condition is FAIR
+Razor A [product code=9000001, MSRP=130.01, degradation level=50%, condition=FAIR, resale value=32.50, color=Pink, wheels=2, odometer=20] is added to the stock.
+The customer grows bored with the toy and trades it in for $32.50
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=50%, condition=FAIR, resale value=22.40, color=Red, wheels=2, odometer=20] and begins to play with it...
+After play, Fuzion X-3's condition is FAIR
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=55%, condition=FAIR, resale value=22.40, color=Red, wheels=2, odometer=22] is added to the stock.
+The customer grows bored with the toy and trades it in for $22.40
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=50%, condition=FAIR, resale value=32.50, color=Pink, wheels=2, odometer=20] and begins to play with it...
+After play, Razor A's condition is FAIR
+Razor A [product code=9000001, MSRP=130.01, degradation level=55%, condition=FAIR, resale value=32.50, color=Pink, wheels=2, odometer=22] is added to the stock.
+The customer grows bored with the toy and trades it in for $32.50
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=55%, condition=FAIR, resale value=22.40, color=Red, wheels=2, odometer=22] and begins to play with it...
+After play, Fuzion X-3's condition is FAIR
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=60%, condition=FAIR, resale value=22.40, color=Red, wheels=2, odometer=24] is added to the stock.
+The customer grows bored with the toy and trades it in for $22.40
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=55%, condition=FAIR, resale value=32.50, color=Pink, wheels=2, odometer=22] and begins to play with it...
+After play, Razor A's condition is FAIR
+Razor A [product code=9000001, MSRP=130.01, degradation level=60%, condition=FAIR, resale value=32.50, color=Pink, wheels=2, odometer=24] is added to the stock.
+The customer grows bored with the toy and trades it in for $32.50
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=60%, condition=FAIR, resale value=22.40, color=Red, wheels=2, odometer=24] and begins to play with it...
+After play, Fuzion X-3's condition is FAIR
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=65%, condition=FAIR, resale value=22.40, color=Red, wheels=2, odometer=26] is added to the stock.
+The customer grows bored with the toy and trades it in for $22.40
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=60%, condition=FAIR, resale value=32.50, color=Pink, wheels=2, odometer=24] and begins to play with it...
+After play, Razor A's condition is FAIR
+Razor A [product code=9000001, MSRP=130.01, degradation level=65%, condition=FAIR, resale value=32.50, color=Pink, wheels=2, odometer=26] is added to the stock.
+The customer grows bored with the toy and trades it in for $32.50
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=65%, condition=FAIR, resale value=22.40, color=Red, wheels=2, odometer=26] and begins to play with it...
+After play, Fuzion X-3's condition is FAIR
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=70%, condition=FAIR, resale value=22.40, color=Red, wheels=2, odometer=28] is added to the stock.
+The customer grows bored with the toy and trades it in for $22.40
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=65%, condition=FAIR, resale value=32.50, color=Pink, wheels=2, odometer=26] and begins to play with it...
+After play, Razor A's condition is FAIR
+Razor A [product code=9000001, MSRP=130.01, degradation level=70%, condition=FAIR, resale value=32.50, color=Pink, wheels=2, odometer=28] is added to the stock.
+The customer grows bored with the toy and trades it in for $32.50
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=70%, condition=FAIR, resale value=22.40, color=Red, wheels=2, odometer=28] and begins to play with it...
+After play, Fuzion X-3's condition is POOR
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=75%, condition=POOR, resale value=8.96, color=Red, wheels=2, odometer=30] is added to the stock.
+The customer grows bored with the toy and trades it in for $8.96
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=70%, condition=FAIR, resale value=32.50, color=Pink, wheels=2, odometer=28] and begins to play with it...
+After play, Razor A's condition is POOR
+Razor A [product code=9000001, MSRP=130.01, degradation level=75%, condition=POOR, resale value=13.00, color=Pink, wheels=2, odometer=30] is added to the stock.
+The customer grows bored with the toy and trades it in for $13.00
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=75%, condition=POOR, resale value=8.96, color=Red, wheels=2, odometer=30] and begins to play with it...
+After play, Fuzion X-3's condition is POOR
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=80%, condition=POOR, resale value=8.96, color=Red, wheels=2, odometer=32] is added to the stock.
+The customer grows bored with the toy and trades it in for $8.96
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=75%, condition=POOR, resale value=13.00, color=Pink, wheels=2, odometer=30] and begins to play with it...
+After play, Razor A's condition is POOR
+Razor A [product code=9000001, MSRP=130.01, degradation level=80%, condition=POOR, resale value=13.00, color=Pink, wheels=2, odometer=32] is added to the stock.
+The customer grows bored with the toy and trades it in for $13.00
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=80%, condition=POOR, resale value=8.96, color=Red, wheels=2, odometer=32] and begins to play with it...
+After play, Fuzion X-3's condition is POOR
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=85%, condition=POOR, resale value=8.96, color=Red, wheels=2, odometer=34] is added to the stock.
+The customer grows bored with the toy and trades it in for $8.96
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=80%, condition=POOR, resale value=13.00, color=Pink, wheels=2, odometer=32] and begins to play with it...
+After play, Razor A's condition is POOR
+Razor A [product code=9000001, MSRP=130.01, degradation level=85%, condition=POOR, resale value=13.00, color=Pink, wheels=2, odometer=34] is added to the stock.
+The customer grows bored with the toy and trades it in for $13.00
+The next customer purchases Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=85%, condition=POOR, resale value=8.96, color=Red, wheels=2, odometer=34] and begins to play with it...
+After play, Fuzion X-3's condition is BROKEN
+Fuzion X-3 [product code=9000000, MSRP=89.60, degradation level=90%, condition=BROKEN, resale value=0.00, color=Red, wheels=2, odometer=36] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The next customer purchases Razor A [product code=9000001, MSRP=130.01, degradation level=85%, condition=POOR, resale value=13.00, color=Pink, wheels=2, odometer=34] and begins to play with it...
+After play, Razor A's condition is BROKEN
+Razor A [product code=9000001, MSRP=130.01, degradation level=90%, condition=BROKEN, resale value=0.00, color=Pink, wheels=2, odometer=36] is broken and discarded.
+The customer grows bored with the toy and trades it in for $0.00
+The toy store is out of stock! Time to close!
