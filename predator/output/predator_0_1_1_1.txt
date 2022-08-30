@@ -1,0 +1,14 @@
+Get to the choppa!
+Statistics: 1 hostage/s remain, 1 soldier/s remain, 1 guerrilla/s remain, 0 rescued
+Soldier #1 enters enemy base...
+Soldier #1 battles Guerrilla #1 who rolls a 61
+Soldier #1 yells, 'Sieg über Guerrilla #1!'
+Guerrilla #1 cries, 'Derrotado por Soldier #1!'
+Hostage #1 rescued from enemy base by Soldier #1
+Soldier #1 encounters the predator who rolls a 49
+The predator yells out in triumphant victory over Soldier #1!
+Soldier #1 cries, 'Besiegt von Predator!'
+Hostage #1 encounters the predator who rolls a 30
+The predator yells out in triumphant victory over Hostage #1!
+Hostage #1 cries, 'Defeated by Predator!'
+Statistics: 0 hostage/s remain, 0 soldier/s remain, 0 guerrilla/s remain, 0 rescued

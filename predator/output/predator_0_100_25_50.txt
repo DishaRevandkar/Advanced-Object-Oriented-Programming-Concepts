@@ -1,0 +1,397 @@
+Get to the choppa!
+Statistics: 100 hostage/s remain, 25 soldier/s remain, 50 guerrilla/s remain, 0 rescued
+Soldier #1 enters enemy base...
+Soldier #1 battles Guerrilla #1 who rolls a 61
+Soldier #1 yells, 'Sieg über Guerrilla #1!'
+Guerrilla #1 cries, 'Derrotado por Soldier #1!'
+Hostage #100 rescued from enemy base by Soldier #1
+Soldier #1 encounters the predator who rolls a 49
+The predator yells out in triumphant victory over Soldier #1!
+Soldier #1 cries, 'Besiegt von Predator!'
+Hostage #100 encounters the predator who rolls a 30
+The predator yells out in triumphant victory over Hostage #100!
+Hostage #100 cries, 'Defeated by Predator!'
+Statistics: 99 hostage/s remain, 24 soldier/s remain, 49 guerrilla/s remain, 0 rescued
+Soldier #2 enters enemy base...
+Soldier #2 battles Guerrilla #2 who rolls a 48
+Soldier #2 yells, 'Sieg über Guerrilla #2!'
+Guerrilla #2 cries, 'Derrotado por Soldier #2!'
+Hostage #99 rescued from enemy base by Soldier #2
+Soldier #2 encounters the predator who rolls a 16
+The predator yells out in triumphant victory over Soldier #2!
+Soldier #2 cries, 'Besiegt von Predator!'
+Hostage #99 encounters the predator who rolls a 54
+The predator yells out in triumphant victory over Hostage #99!
+Hostage #99 cries, 'Defeated by Predator!'
+Statistics: 98 hostage/s remain, 23 soldier/s remain, 48 guerrilla/s remain, 0 rescued
+Soldier #3 enters enemy base...
+Soldier #3 battles Guerrilla #3 who rolls a 92
+Soldier #3 yells, 'Sieg über Guerrilla #3!'
+Guerrilla #3 cries, 'Derrotado por Soldier #3!'
+Hostage #98 rescued from enemy base by Soldier #3
+Soldier #3 encounters the predator who rolls a 62
+Soldier #3 yells, 'Sieg über Predator!'
+The predator cries out in glorious defeat to Soldier #3!
+Hostage #98 boards the chopper!
+Statistics: 97 hostage/s remain, 23 soldier/s remain, 47 guerrilla/s remain, 0 rescued
+Soldier #4 enters enemy base...
+Soldier #4 battles Guerrilla #4 who rolls a 20
+Guerrilla #4 yells, 'Victoria sobre Soldier #4!'
+Soldier #4 cries, 'Besiegt von Guerrilla #4!'
+Statistics: 97 hostage/s remain, 22 soldier/s remain, 47 guerrilla/s remain, 0 rescued
+Soldier #5 enters enemy base...
+Soldier #5 battles Guerrilla #5 who rolls a 55
+Soldier #5 yells, 'Sieg über Guerrilla #5!'
+Guerrilla #5 cries, 'Derrotado por Soldier #5!'
+Hostage #97 rescued from enemy base by Soldier #5
+Soldier #5 encounters the predator who rolls a 78
+Soldier #5 yells, 'Sieg über Predator!'
+The predator cries out in glorious defeat to Soldier #5!
+Hostage #97 boards the chopper!
+Statistics: 96 hostage/s remain, 22 soldier/s remain, 46 guerrilla/s remain, 0 rescued
+Soldier #6 enters enemy base...
+Soldier #6 battles Guerrilla #6 who rolls a 78
+Soldier #6 yells, 'Sieg über Guerrilla #6!'
+Guerrilla #6 cries, 'Derrotado por Soldier #6!'
+Hostage #96 rescued from enemy base by Soldier #6
+Soldier #6 encounters the predator who rolls a 74
+Soldier #6 yells, 'Sieg über Predator!'
+The predator cries out in glorious defeat to Soldier #6!
+Hostage #96 boards the chopper!
+Statistics: 95 hostage/s remain, 22 soldier/s remain, 45 guerrilla/s remain, 0 rescued
+Soldier #7 enters enemy base...
+Soldier #7 battles Guerrilla #7 who rolls a 63
+Soldier #7 yells, 'Sieg über Guerrilla #7!'
+Guerrilla #7 cries, 'Derrotado por Soldier #7!'
+Hostage #95 rescued from enemy base by Soldier #7
+Soldier #7 encounters the predator who rolls a 96
+Soldier #7 yells, 'Sieg über Predator!'
+The predator cries out in glorious defeat to Soldier #7!
+Hostage #95 boards the chopper!
+Statistics: 94 hostage/s remain, 22 soldier/s remain, 44 guerrilla/s remain, 0 rescued
+Soldier #8 enters enemy base...
+Soldier #8 battles Guerrilla #8 who rolls a 45
+Soldier #8 yells, 'Sieg über Guerrilla #8!'
+Guerrilla #8 cries, 'Derrotado por Soldier #8!'
+Hostage #94 rescued from enemy base by Soldier #8
+Soldier #8 encounters the predator who rolls a 85
+Soldier #8 yells, 'Sieg über Predator!'
+The predator cries out in glorious defeat to Soldier #8!
+Hostage #94 boards the chopper!
+Statistics: 93 hostage/s remain, 22 soldier/s remain, 43 guerrilla/s remain, 0 rescued
+Soldier #9 enters enemy base...
+Soldier #9 battles Guerrilla #9 who rolls a 76
+Soldier #9 yells, 'Sieg über Guerrilla #9!'
+Guerrilla #9 cries, 'Derrotado por Soldier #9!'
+Hostage #93 rescued from enemy base by Soldier #9
+Soldier #9 encounters the predator who rolls a 42
+The predator yells out in triumphant victory over Soldier #9!
+Soldier #9 cries, 'Besiegt von Predator!'
+Hostage #93 encounters the predator who rolls a 21
+The predator yells out in triumphant victory over Hostage #93!
+Hostage #93 cries, 'Defeated by Predator!'
+Statistics: 92 hostage/s remain, 21 soldier/s remain, 42 guerrilla/s remain, 0 rescued
+Soldier #10 enters enemy base...
+Soldier #10 battles Guerrilla #10 who rolls a 44
+Soldier #10 yells, 'Sieg über Guerrilla #10!'
+Guerrilla #10 cries, 'Derrotado por Soldier #10!'
+Hostage #92 rescued from enemy base by Soldier #10
+Soldier #10 encounters the predator who rolls a 89
+Soldier #10 yells, 'Sieg über Predator!'
+The predator cries out in glorious defeat to Soldier #10!
+Hostage #92 boards the chopper!
+Statistics: 91 hostage/s remain, 21 soldier/s remain, 41 guerrilla/s remain, 0 rescued
+Soldier #11 enters enemy base...
+Soldier #11 battles Guerrilla #11 who rolls a 25
+Soldier #11 yells, 'Sieg über Guerrilla #11!'
+Guerrilla #11 cries, 'Derrotado por Soldier #11!'
+Hostage #91 rescued from enemy base by Soldier #11
+Soldier #11 encounters the predator who rolls a 48
+The predator yells out in triumphant victory over Soldier #11!
+Soldier #11 cries, 'Besiegt von Predator!'
+Hostage #91 encounters the predator who rolls a 53
+The predator yells out in triumphant victory over Hostage #91!
+Hostage #91 cries, 'Defeated by Predator!'
+Statistics: 90 hostage/s remain, 20 soldier/s remain, 40 guerrilla/s remain, 0 rescued
+Soldier #12 enters enemy base...
+Soldier #12 battles Guerrilla #12 who rolls a 61
+Soldier #12 yells, 'Sieg über Guerrilla #12!'
+Guerrilla #12 cries, 'Derrotado por Soldier #12!'
+Hostage #90 rescued from enemy base by Soldier #12
+Soldier #12 encounters the predator who rolls a 4
+The predator yells out in triumphant victory over Soldier #12!
+Soldier #12 cries, 'Besiegt von Predator!'
+Hostage #90 encounters the predator who rolls a 83
+Hostage #90 yells, 'Victory over Predator!'
+The predator cries out in glorious defeat to Hostage #90!
+Chopper transported Hostage #92 to safety!
+Chopper transported Hostage #94 to safety!
+Chopper transported Hostage #95 to safety!
+Chopper transported Hostage #96 to safety!
+Chopper transported Hostage #97 to safety!
+Chopper transported Hostage #98 to safety!
+Hostage #90 boards the chopper!
+Statistics: 89 hostage/s remain, 19 soldier/s remain, 39 guerrilla/s remain, 6 rescued
+Soldier #13 enters enemy base...
+Soldier #13 battles Guerrilla #13 who rolls a 93
+Soldier #13 yells, 'Sieg über Guerrilla #13!'
+Guerrilla #13 cries, 'Derrotado por Soldier #13!'
+Hostage #89 rescued from enemy base by Soldier #13
+Soldier #13 encounters the predator who rolls a 24
+The predator yells out in triumphant victory over Soldier #13!
+Soldier #13 cries, 'Besiegt von Predator!'
+Hostage #89 encounters the predator who rolls a 46
+The predator yells out in triumphant victory over Hostage #89!
+Hostage #89 cries, 'Defeated by Predator!'
+Statistics: 88 hostage/s remain, 18 soldier/s remain, 38 guerrilla/s remain, 6 rescued
+Soldier #14 enters enemy base...
+Soldier #14 battles Guerrilla #14 who rolls a 46
+Soldier #14 yells, 'Sieg über Guerrilla #14!'
+Guerrilla #14 cries, 'Derrotado por Soldier #14!'
+Hostage #88 rescued from enemy base by Soldier #14
+Soldier #14 encounters the predator who rolls a 38
+The predator yells out in triumphant victory over Soldier #14!
+Soldier #14 cries, 'Besiegt von Predator!'
+Hostage #88 encounters the predator who rolls a 88
+Hostage #88 yells, 'Victory over Predator!'
+The predator cries out in glorious defeat to Hostage #88!
+Hostage #88 boards the chopper!
+Statistics: 87 hostage/s remain, 17 soldier/s remain, 37 guerrilla/s remain, 6 rescued
+Soldier #15 enters enemy base...
+Soldier #15 battles Guerrilla #15 who rolls a 3
+Guerrilla #15 yells, 'Victoria sobre Soldier #15!'
+Soldier #15 cries, 'Besiegt von Guerrilla #15!'
+Statistics: 87 hostage/s remain, 16 soldier/s remain, 37 guerrilla/s remain, 6 rescued
+Soldier #16 enters enemy base...
+Soldier #16 battles Guerrilla #16 who rolls a 63
+Soldier #16 yells, 'Sieg über Guerrilla #16!'
+Guerrilla #16 cries, 'Derrotado por Soldier #16!'
+Hostage #87 rescued from enemy base by Soldier #16
+Soldier #16 encounters the predator who rolls a 26
+The predator yells out in triumphant victory over Soldier #16!
+Soldier #16 cries, 'Besiegt von Predator!'
+Hostage #87 encounters the predator who rolls a 54
+The predator yells out in triumphant victory over Hostage #87!
+Hostage #87 cries, 'Defeated by Predator!'
+Statistics: 86 hostage/s remain, 15 soldier/s remain, 36 guerrilla/s remain, 6 rescued
+Soldier #17 enters enemy base...
+Soldier #17 battles Guerrilla #17 who rolls a 39
+Soldier #17 yells, 'Sieg über Guerrilla #17!'
+Guerrilla #17 cries, 'Derrotado por Soldier #17!'
+Hostage #86 rescued from enemy base by Soldier #17
+Soldier #17 encounters the predator who rolls a 36
+The predator yells out in triumphant victory over Soldier #17!
+Soldier #17 cries, 'Besiegt von Predator!'
+Hostage #86 encounters the predator who rolls a 61
+The predator yells out in triumphant victory over Hostage #86!
+Hostage #86 cries, 'Defeated by Predator!'
+Statistics: 85 hostage/s remain, 14 soldier/s remain, 35 guerrilla/s remain, 6 rescued
+Soldier #18 enters enemy base...
+Soldier #18 battles Guerrilla #18 who rolls a 76
+Soldier #18 yells, 'Sieg über Guerrilla #18!'
+Guerrilla #18 cries, 'Derrotado por Soldier #18!'
+Hostage #85 rescued from enemy base by Soldier #18
+Soldier #18 encounters the predator who rolls a 56
+Soldier #18 yells, 'Sieg über Predator!'
+The predator cries out in glorious defeat to Soldier #18!
+Hostage #85 boards the chopper!
+Statistics: 84 hostage/s remain, 14 soldier/s remain, 34 guerrilla/s remain, 6 rescued
+Soldier #19 enters enemy base...
+Soldier #19 battles Guerrilla #19 who rolls a 31
+Soldier #19 yells, 'Sieg über Guerrilla #19!'
+Guerrilla #19 cries, 'Derrotado por Soldier #19!'
+Hostage #84 rescued from enemy base by Soldier #19
+Soldier #19 encounters the predator who rolls a 99
+Soldier #19 yells, 'Sieg über Predator!'
+The predator cries out in glorious defeat to Soldier #19!
+Hostage #84 boards the chopper!
+Statistics: 83 hostage/s remain, 14 soldier/s remain, 33 guerrilla/s remain, 6 rescued
+Soldier #20 enters enemy base...
+Soldier #20 battles Guerrilla #20 who rolls a 92
+Soldier #20 yells, 'Sieg über Guerrilla #20!'
+Guerrilla #20 cries, 'Derrotado por Soldier #20!'
+Hostage #83 rescued from enemy base by Soldier #20
+Soldier #20 encounters the predator who rolls a 75
+Soldier #20 yells, 'Sieg über Predator!'
+The predator cries out in glorious defeat to Soldier #20!
+Hostage #83 boards the chopper!
+Statistics: 82 hostage/s remain, 14 soldier/s remain, 32 guerrilla/s remain, 6 rescued
+Soldier #21 enters enemy base...
+Soldier #21 battles Guerrilla #21 who rolls a 37
+Soldier #21 yells, 'Sieg über Guerrilla #21!'
+Guerrilla #21 cries, 'Derrotado por Soldier #21!'
+Hostage #82 rescued from enemy base by Soldier #21
+Soldier #21 encounters the predator who rolls a 13
+The predator yells out in triumphant victory over Soldier #21!
+Soldier #21 cries, 'Besiegt von Predator!'
+Hostage #82 encounters the predator who rolls a 63
+The predator yells out in triumphant victory over Hostage #82!
+Hostage #82 cries, 'Defeated by Predator!'
+Statistics: 81 hostage/s remain, 13 soldier/s remain, 31 guerrilla/s remain, 6 rescued
+Soldier #22 enters enemy base...
+Soldier #22 battles Guerrilla #22 who rolls a 20
+Guerrilla #22 yells, 'Victoria sobre Soldier #22!'
+Soldier #22 cries, 'Besiegt von Guerrilla #22!'
+Statistics: 81 hostage/s remain, 12 soldier/s remain, 31 guerrilla/s remain, 6 rescued
+Soldier #23 enters enemy base...
+Soldier #23 battles Guerrilla #23 who rolls a 78
+Soldier #23 yells, 'Sieg über Guerrilla #23!'
+Guerrilla #23 cries, 'Derrotado por Soldier #23!'
+Hostage #81 rescued from enemy base by Soldier #23
+Soldier #23 encounters the predator who rolls a 17
+The predator yells out in triumphant victory over Soldier #23!
+Soldier #23 cries, 'Besiegt von Predator!'
+Hostage #81 encounters the predator who rolls a 47
+The predator yells out in triumphant victory over Hostage #81!
+Hostage #81 cries, 'Defeated by Predator!'
+Statistics: 80 hostage/s remain, 11 soldier/s remain, 30 guerrilla/s remain, 6 rescued
+Soldier #24 enters enemy base...
+Soldier #24 battles Guerrilla #24 who rolls a 8
+Guerrilla #24 yells, 'Victoria sobre Soldier #24!'
+Soldier #24 cries, 'Besiegt von Guerrilla #24!'
+Statistics: 80 hostage/s remain, 10 soldier/s remain, 30 guerrilla/s remain, 6 rescued
+Soldier #25 enters enemy base...
+Soldier #25 battles Guerrilla #25 who rolls a 17
+Guerrilla #25 yells, 'Victoria sobre Soldier #25!'
+Soldier #25 cries, 'Besiegt von Guerrilla #25!'
+Statistics: 80 hostage/s remain, 9 soldier/s remain, 30 guerrilla/s remain, 6 rescued
+Soldier #3 enters enemy base...
+Soldier #3 battles Guerrilla #26 who rolls a 9
+Guerrilla #26 yells, 'Victoria sobre Soldier #3!'
+Soldier #3 cries, 'Besiegt von Guerrilla #26!'
+Statistics: 80 hostage/s remain, 8 soldier/s remain, 30 guerrilla/s remain, 6 rescued
+Soldier #5 enters enemy base...
+Soldier #5 battles Guerrilla #27 who rolls a 38
+Soldier #5 yells, 'Sieg über Guerrilla #27!'
+Guerrilla #27 cries, 'Derrotado por Soldier #5!'
+Hostage #80 rescued from enemy base by Soldier #5
+Soldier #5 encounters the predator who rolls a 44
+The predator yells out in triumphant victory over Soldier #5!
+Soldier #5 cries, 'Besiegt von Predator!'
+Hostage #80 encounters the predator who rolls a 48
+The predator yells out in triumphant victory over Hostage #80!
+Hostage #80 cries, 'Defeated by Predator!'
+Statistics: 79 hostage/s remain, 7 soldier/s remain, 29 guerrilla/s remain, 6 rescued
+Soldier #6 enters enemy base...
+Soldier #6 battles Guerrilla #28 who rolls a 88
+Soldier #6 yells, 'Sieg über Guerrilla #28!'
+Guerrilla #28 cries, 'Derrotado por Soldier #6!'
+Hostage #79 rescued from enemy base by Soldier #6
+Soldier #6 encounters the predator who rolls a 89
+Soldier #6 yells, 'Sieg über Predator!'
+The predator cries out in glorious defeat to Soldier #6!
+Hostage #79 boards the chopper!
+Statistics: 78 hostage/s remain, 7 soldier/s remain, 28 guerrilla/s remain, 6 rescued
+Soldier #7 enters enemy base...
+Soldier #7 battles Guerrilla #29 who rolls a 6
+Guerrilla #29 yells, 'Victoria sobre Soldier #7!'
+Soldier #7 cries, 'Besiegt von Guerrilla #29!'
+Statistics: 78 hostage/s remain, 6 soldier/s remain, 28 guerrilla/s remain, 6 rescued
+Soldier #8 enters enemy base...
+Soldier #8 battles Guerrilla #30 who rolls a 59
+Soldier #8 yells, 'Sieg über Guerrilla #30!'
+Guerrilla #30 cries, 'Derrotado por Soldier #8!'
+Hostage #78 rescued from enemy base by Soldier #8
+Soldier #8 encounters the predator who rolls a 9
+The predator yells out in triumphant victory over Soldier #8!
+Soldier #8 cries, 'Besiegt von Predator!'
+Hostage #78 encounters the predator who rolls a 18
+The predator yells out in triumphant victory over Hostage #78!
+Hostage #78 cries, 'Defeated by Predator!'
+Statistics: 77 hostage/s remain, 5 soldier/s remain, 27 guerrilla/s remain, 6 rescued
+Soldier #10 enters enemy base...
+Soldier #10 battles Guerrilla #31 who rolls a 52
+Soldier #10 yells, 'Sieg über Guerrilla #31!'
+Guerrilla #31 cries, 'Derrotado por Soldier #10!'
+Hostage #77 rescued from enemy base by Soldier #10
+Soldier #10 encounters the predator who rolls a 19
+The predator yells out in triumphant victory over Soldier #10!
+Soldier #10 cries, 'Besiegt von Predator!'
+Hostage #77 encounters the predator who rolls a 59
+The predator yells out in triumphant victory over Hostage #77!
+Hostage #77 cries, 'Defeated by Predator!'
+Statistics: 76 hostage/s remain, 4 soldier/s remain, 26 guerrilla/s remain, 6 rescued
+Soldier #18 enters enemy base...
+Soldier #18 battles Guerrilla #32 who rolls a 19
+Guerrilla #32 yells, 'Victoria sobre Soldier #18!'
+Soldier #18 cries, 'Besiegt von Guerrilla #32!'
+Statistics: 76 hostage/s remain, 3 soldier/s remain, 26 guerrilla/s remain, 6 rescued
+Soldier #19 enters enemy base...
+Soldier #19 battles Guerrilla #33 who rolls a 39
+Soldier #19 yells, 'Sieg über Guerrilla #33!'
+Guerrilla #33 cries, 'Derrotado por Soldier #19!'
+Hostage #76 rescued from enemy base by Soldier #19
+Soldier #19 encounters the predator who rolls a 73
+Soldier #19 yells, 'Sieg über Predator!'
+The predator cries out in glorious defeat to Soldier #19!
+Chopper transported Hostage #79 to safety!
+Chopper transported Hostage #83 to safety!
+Chopper transported Hostage #84 to safety!
+Chopper transported Hostage #85 to safety!
+Chopper transported Hostage #88 to safety!
+Chopper transported Hostage #90 to safety!
+Hostage #76 boards the chopper!
+Statistics: 75 hostage/s remain, 3 soldier/s remain, 25 guerrilla/s remain, 12 rescued
+Soldier #20 enters enemy base...
+Soldier #20 battles Guerrilla #34 who rolls a 58
+Soldier #20 yells, 'Sieg über Guerrilla #34!'
+Guerrilla #34 cries, 'Derrotado por Soldier #20!'
+Hostage #75 rescued from enemy base by Soldier #20
+Soldier #20 encounters the predator who rolls a 52
+Soldier #20 yells, 'Sieg über Predator!'
+The predator cries out in glorious defeat to Soldier #20!
+Hostage #75 boards the chopper!
+Statistics: 74 hostage/s remain, 3 soldier/s remain, 24 guerrilla/s remain, 12 rescued
+Soldier #6 enters enemy base...
+Soldier #6 battles Guerrilla #35 who rolls a 27
+Soldier #6 yells, 'Sieg über Guerrilla #35!'
+Guerrilla #35 cries, 'Derrotado por Soldier #6!'
+Hostage #74 rescued from enemy base by Soldier #6
+Soldier #6 encounters the predator who rolls a 81
+Soldier #6 yells, 'Sieg über Predator!'
+The predator cries out in glorious defeat to Soldier #6!
+Hostage #74 boards the chopper!
+Statistics: 73 hostage/s remain, 3 soldier/s remain, 23 guerrilla/s remain, 12 rescued
+Soldier #19 enters enemy base...
+Soldier #19 battles Guerrilla #36 who rolls a 98
+Soldier #19 yells, 'Sieg über Guerrilla #36!'
+Guerrilla #36 cries, 'Derrotado por Soldier #19!'
+Hostage #73 rescued from enemy base by Soldier #19
+Soldier #19 encounters the predator who rolls a 63
+Soldier #19 yells, 'Sieg über Predator!'
+The predator cries out in glorious defeat to Soldier #19!
+Hostage #73 boards the chopper!
+Statistics: 72 hostage/s remain, 3 soldier/s remain, 22 guerrilla/s remain, 12 rescued
+Soldier #20 enters enemy base...
+Soldier #20 battles Guerrilla #37 who rolls a 36
+Soldier #20 yells, 'Sieg über Guerrilla #37!'
+Guerrilla #37 cries, 'Derrotado por Soldier #20!'
+Hostage #72 rescued from enemy base by Soldier #20
+Soldier #20 encounters the predator who rolls a 21
+The predator yells out in triumphant victory over Soldier #20!
+Soldier #20 cries, 'Besiegt von Predator!'
+Hostage #72 encounters the predator who rolls a 68
+The predator yells out in triumphant victory over Hostage #72!
+Hostage #72 cries, 'Defeated by Predator!'
+Statistics: 71 hostage/s remain, 2 soldier/s remain, 21 guerrilla/s remain, 12 rescued
+Soldier #6 enters enemy base...
+Soldier #6 battles Guerrilla #38 who rolls a 74
+Soldier #6 yells, 'Sieg über Guerrilla #38!'
+Guerrilla #38 cries, 'Derrotado por Soldier #6!'
+Hostage #71 rescued from enemy base by Soldier #6
+Soldier #6 encounters the predator who rolls a 18
+The predator yells out in triumphant victory over Soldier #6!
+Soldier #6 cries, 'Besiegt von Predator!'
+Hostage #71 encounters the predator who rolls a 70
+The predator yells out in triumphant victory over Hostage #71!
+Hostage #71 cries, 'Defeated by Predator!'
+Statistics: 70 hostage/s remain, 1 soldier/s remain, 20 guerrilla/s remain, 12 rescued
+Soldier #19 enters enemy base...
+Soldier #19 battles Guerrilla #39 who rolls a 6
+Guerrilla #39 yells, 'Victoria sobre Soldier #19!'
+Soldier #19 cries, 'Besiegt von Guerrilla #39!'
+Chopper transported Hostage #73 to safety!
+Chopper transported Hostage #74 to safety!
+Chopper transported Hostage #75 to safety!
+Chopper transported Hostage #76 to safety!
+Statistics: 70 hostage/s remain, 0 soldier/s remain, 20 guerrilla/s remain, 16 rescued
